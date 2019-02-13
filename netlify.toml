@@ -1,0 +1,34 @@
+[[redirects]]
+  from = "https://qro.onmaps.mx/*"
+  to = "https://xn--quertaro-e1a.onmaps.mx/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.qro.onmaps.mx/*"
+  to = "https://xn--quertaro-e1a.onmaps.mx/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://queretaro.onmaps.mx/*"
+  to = "https://xn--quertaro-e1a.onmaps.mx/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.queretaro.onmaps.mx/*"
+  to = "https://xn--quertaro-e1a.onmaps.mx/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.xn--quertaro-e1a.onmaps.mx/*"
+  to = "https://xn--quertaro-e1a.onmaps.mx/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://onmaps-queretaro-blog.netlify.com/*"
+  to = "https://xn--quertaro-e1a.onmaps.mx/:splat"
+  status = 301
+  force = true
