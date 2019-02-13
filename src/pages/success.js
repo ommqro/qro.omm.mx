@@ -43,13 +43,20 @@ const Content = styled.div`
 const Success = () => (
   <Layout>
     <Wrapper>
-      <Helmet title={`Contact | ${config.siteTitle}`} />
+      <Helmet title={`Contacto | ${config.siteTitle}`} />
       <Header>
         <Link to="/">{config.siteTitle}</Link>
       </Header>
       <Content>
-        <h1>Your message was sent!</h1>
-        <p>I'll answer your request as quick as possible.</p>
+        <h1>¡Tu mensaje fue enviado!</h1>
+        <p>Te responderemos tan pronto como sea posible.</p>
+        <p>
+          Anota nuestro correo electrónico, para futuras ocasiones:{' '}
+          <a href="mailto:ommqro@hotmail.com">
+            <strong>ommqro@hotmail.com</strong>
+          </a>
+          .
+        </p>
       </Content>
     </Wrapper>
   </Layout>

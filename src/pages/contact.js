@@ -45,17 +45,24 @@ const Content = styled.div`
 const Contact = () => (
   <Layout>
     <Wrapper>
-      <Helmet title={`Contact | ${config.siteTitle}`} />
+      <Helmet title={`Contacto | ${config.siteTitle}`} />
       <Header>
         <Link to="/">{config.siteTitle}</Link>
       </Header>
       <Content>
-        <h1>Contact</h1>
-        <p>Super cool intro text to get people contacting me! It uses Netlify's form feature.</p>
+        <h1>Contacto</h1>
+        <p>
+          La mejor forma de contactarnos es por correo electrónico, escríbenos a{' '}
+          <a href="mailto:ommqro@hotmail.com">
+            <strong>ommqro@hotmail.com</strong>
+          </a>
+          .
+        </p>
+        <p>También, si lo prefieres, puedes llenar este formulario y nos pondremos en contacto contigo a la brevedad.</p>
         <form name="contact-form" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/success">
           <p>
             <label htmlFor="contact-name">
-              Name
+              Nombre
               <input name="name" id="contact-name" type="text" required />
             </label>
           </p>
@@ -66,11 +73,11 @@ const Contact = () => (
           </p>
           <p>
             <label htmlFor="contact-message">
-              Your Message <textarea name="message" id="contact-message" required />
+              Tu mensaje <textarea name="message" id="contact-message" required />
             </label>
           </p>
           <p>
-            <Button>Send</Button>
+            <Button>Enviar</Button>
           </p>
           <input type="hidden" name="form-name" value="contact-form" />
         </form>
