@@ -51,8 +51,8 @@ const IndexPage = ({
       <Hero>
         <h1>OMM Querétaro</h1>
         <p>
-          Avisos, convocatorias y material de entrenamiento para la Olimpiada Nacional de Matemáticas para Alumnos de
-          Primaria y Secundaria.
+          Avisos, convocatorias y material de entrenamiento para la Olimpiada Mexicana 
+de Matemáticas.
         </p>
         <Link to="/contact">
           <Button big>
