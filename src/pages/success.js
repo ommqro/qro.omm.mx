@@ -52,8 +52,8 @@ const Success = () => (
         <p>Te responderemos tan pronto como sea posible.</p>
         <p>
           Anota nuestro correo electrónico, para futuras ocasiones:{' '}
-          <a href="mailto:ommqro@hotmail.com">
-            <strong>ommqro@hotmail.com</strong>
+          <a href="mailto:ommqro@gmail.com">
+            <strong>ommqro@gmail.com</strong>
           </a>
           .
         </p>

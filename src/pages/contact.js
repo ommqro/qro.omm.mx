@@ -53,8 +53,8 @@ const Contact = () => (
         <h1>Contacto</h1>
         <p>
           La mejor forma de contactarnos es por correo electrónico, escríbenos a{' '}
-          <a href="mailto:ommqro@hotmail.com">
-            <strong>ommqro@hotmail.com</strong>
+          <a href="mailto:ommqro@gmail.com">
+            <strong>ommqro@gmail.com</strong>
           </a>
           .
         </p>
