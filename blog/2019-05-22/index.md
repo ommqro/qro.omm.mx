@@ -4,10 +4,14 @@ title: "Canguro Matemático"
 categories:
   - Convocatorias
 ---
-#### CONVOCATORIA 2019
-¡Saludos a todos!
+<img src="/home/nely/git/modl/qro.omm.mx/src/Logo1.png"  width="100" height="100" ALIGN=LEFT>
 
-El Comité Estatal de la Olimpiada Mexicana de Matemáticas convoca a la Competencia Canguro matemático en Querétaro; el cuál consistirá en dos exámenes selectivos a Nivel Estatal.
+<img src="/home/nely/git/modl/qro.omm.mx/src/Logo2.png"  width="100" height="100" ALIGN=RIGHT >
+
+#### CONVOCATORIA 2019
+---
+
+El Comité Estatal de la Olimpiada Mexicana de Matemáticas convoca a la Competencia Canguro matemático en Querétaro; el cuál consistirá en dos exámenes selectivos a Nivel Estatal.,
 
 Los exámenes constan de preguntas de opción múltiple, con nivel creciente de dificultad. Las preguntas de la primera tercera parte tienen un valor, cada una, de 3 puntos; las preguntas en el segundo tercio valen 4 puntos cada una, y para cada una de las preguntas del último tercio el valor es de 5 puntos. Es importante señalar que, por el tipo de examen de que se trata en que algunas preguntas tienen un grado elevado de dificultad, hay poco tiempo para resolverlo y no se califica el razonamiento empleado para llegar a la respuesta (y por tanto, un error mínimo puede llevar a una respuesta incorrecta aunque el alumno sepa bien como resolverla). Los niveles son:
 
