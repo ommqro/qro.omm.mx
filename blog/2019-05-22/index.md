@@ -1,0 +1,61 @@
+---
+date: "2019-05-22"
+title: "Canguro Matemático"
+categories:
+  - Convocatorias
+---
+#### CONVOCATORIA 2019
+¡Saludos a todos!
+
+El Comité Estatal de la Olimpiada Mexicana de Matemáticas convoca a la Competencia Canguro matemático en Querétaro; el cuál consistirá en dos exámenes selectivos a Nivel Estatal.
+
+Los exámenes constan de preguntas de opción múltiple, con nivel creciente de dificultad. Las preguntas de la primera tercera parte tienen un valor, cada una, de 3 puntos; las preguntas en el segundo tercio valen 4 puntos cada una, y para cada una de las preguntas del último tercio el valor es de 5 puntos. Es importante señalar que, por el tipo de examen de que se trata en que algunas preguntas tienen un grado elevado de dificultad, hay poco tiempo para resolverlo y no se califica el razonamiento empleado para llegar a la respuesta (y por tanto, un error mínimo puede llevar a una respuesta incorrecta aunque el alumno sepa bien como resolverla). Los niveles son:
+
+
+#### Escolar
+- Para alumnos de 10 a 12 años (fin de la Primaria). El examen consta de 12 preguntas a resolver en 1 hora.
+
+#### Benjamín. 
+- Para alumnos de 12 a 14 años (1o. y 2o. de Secundaria). El examen consta de 12 preguntas, a resolver en una hora.
+
+#### Cadete.
+- Para alumnos de 14 a 17 años. Son 12 preguntas para resolver en una hora,.
+
+#### Estudiante.
+-  Para alumnos a partir de los 17 años (de 3o. de Preparatoria a primeros 2 años de nivel profesional). El examen consta de 12 preguntas, a resolver en una hora.
+
+Pueden obtenerse exámenes anteriores de todos los niveles en:
+http://www.ommenlinea.org/actividades/concursos/canguro-matematico/
+
+
+#### Bases.
+-  Podrá participar cualquier alumno inscrito en una institución de educación pública, privada o equivalente de educación primaria, secundaria o preparatoria; en cualquier modalidad.
+El costo de inscripción por participante es de $50
+
+-  Los gastos de traslado al lugar sede de los eventos, deberán ser cubiertos por las instituciones de procedencia de los alumnos seleccionados.
+
+#### NO HAY LÍMITE DE ALUMNOS PARTICIPANTES POR ESCUELA..
+-  Las decisiones del jurado calificador serán inapelables y los resultados serán a nivel nacional.
+
+-  El primer examen comenzará en punto de las 5:00 PM en todas las sedes, el día viernes 31 de Mayo de 2019
+
+
+- Se podrá participar en cualquiera de las sedes:
+
+
+
+|  Sede                                 | Escuela                                                                           | Dirección             | 
+|-----------------------------------------|-----------------------------------------------------------------------------------|------------------| 
+| 1) Querétaro                        | Facultad de Ingeniería, Universidad Autónoma de Querétaro, CU                                                            | Cerro de las Campanas S/N, Col. Niños Héroes, Querétaro | 
+| 2) San juan del Rio                   | Escuela de Bachilleres, UAQ                                                                      | Calle Corregidora, San Juan del Rio | 
+|  3) Arroyo Seco                           | Facultad de Ingeniería, UAQ, Campus Concá                                                 | Valle Agrícola s/n (Rancho de los limones), Concá, Arroyo Seco | 
+| 4) Cadereyta                                | COBAQ 5                                                      | Carretera San Juan del Rio- Xilitla km 48, Col Centro, Cadereyta        | 
+| 5) Colón                             | Escuela telesecundaria "Rosario Catellanos" | Calle principal, Urecho, Colón | 
+| 6) Tequisquiapan                         | Escuela telesecundaria "Justo Sierra"4 JALPAN                                                       | Calle Artículo 27 No. 20, Tequisquiapan | 
+
+- Los ganadores de la primera etapa, podrán participar en la segunda etapa  y se les avisará de manera oportuna el día y hora de la siguiente etapa.
+
+Cualquier duda o asunto relacionado con el concurso, será atendido por alguno de los siguientes medios:
+
+Correo electrónico: ommqro@gmail.com
+En facebook: Olimpiada de Matemáticas Querétaro
