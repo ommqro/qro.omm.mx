@@ -32,6 +32,16 @@
   to = "https://xn--quertaro-e1a.omm.mx/:splat"
   status = 301
   force = true
+[[redirects]]
+  from = "https://ommqro.mx/*"
+  to = "https://xn--quertaro-e1a.omm.mx/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.ommqro.mx/*"
+  to = "https://xn--quertaro-e1a.omm.mx/:splat"
+  status = 301
+  force = true
 # The following redirect is intended for use with most SPA's that handles routing internally.
 [[redirects]]
   from = "/*"
